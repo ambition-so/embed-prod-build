@@ -8,3 +8,5 @@
 - v1.0.3 Dated - 23-may-2022
 - v1.0.4 Dated - 28-may-2022
 - v1.0.5 Dated - 9-june-2022
+
+- v1.1.0 Dated - 12-june-2022
