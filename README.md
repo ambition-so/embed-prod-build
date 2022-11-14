@@ -13,3 +13,4 @@
 - v1.1.1 Dated - 18-june-2022
 - v1.1.2 Dated - 14-oct-2022
 - v1.1.3 Dated - 14-oct-2022
+- v1.1.4 Dated - 14-nov-2022
